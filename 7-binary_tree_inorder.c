@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_preorder - check the code
+ * binary_tree_inorder - check the code
  * @tree: est un pointe vers une structure
  * @func: est un pointeur de fonction
  */
