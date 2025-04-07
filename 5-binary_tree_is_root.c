@@ -1,7 +1,10 @@
 #include "binary_trees.h"
 
 /**
+ * binary_tree_is_root - check the code
+ * @node: est un pointeur constant vers une structure
  *
+ * Return: valid the code
  */
 int binary_tree_is_root(const binary_tree_t *node)
 {
